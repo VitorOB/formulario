@@ -2,5 +2,5 @@
 Formulário feito apenas com HTML e CSS, seguindo tutorial no canal da Rafaella Ballerini no youtube.
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/78154866/131261601-5fed674c-57dd-42c5-ad04-51ea5dd7536d.png" width="500px" />
+<img src="https://user-images.githubusercontent.com/78154866/131261634-047f0755-a747-442e-bc3c-04f0d518a1b9.png" width="500px" />
 </div>
